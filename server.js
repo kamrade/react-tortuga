@@ -7,7 +7,7 @@ app.set('views', './src/views');
 app.set('view engine', 'jade');
 app.get('/', function(req, res) {
 	res.render('index', {
-		title: 'Books'
+		title: 'Greeter Component'
 	});
 });
 
