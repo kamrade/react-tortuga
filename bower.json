@@ -1,0 +1,25 @@
+{
+  "name": "react-tortuga",
+  "description": "test app for react tut",
+  "main": "server.js",
+  "authors": [
+    "Denis Michailov"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "test",
+    "react"
+  ],
+  "homepage": "https://github.com/kamrade/react-tortuga",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7"
+  }
+}
